@@ -1,0 +1,2 @@
+rootProject.name='iSchoolUI'
+include ':app'
